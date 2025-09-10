@@ -153,8 +153,8 @@ This project is open source and available under the [MIT License](LICENSE).
 **[Your Name]**
 - B.Tech ECE Final Year Student
 - Electronics and Hardware Design Enthusiast
-- GitHub: [@Naurasshaji][(https://github.com/NaurasShaji)]
-- LinkedIn: [Nauras Shaji][((https://www.linkedin.com/in/nauras-shaji-/)]
+- GitHub:https://github.com/NaurasShaji
+- LinkedIn:https://www.linkedin.com/in/nauras-shaji-/
 
 ## 🙏 Acknowledgments
 
